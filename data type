@@ -1,0 +1,8 @@
+name= "Ruhanee"
+salary=200000
+age=False #this is use for comment. True False boro hater hobe
+job= None
+print (type(name))
+print (type(salary))
+print (type(age))
+print (type(job))
